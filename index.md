@@ -1,6 +1,10 @@
 ## Welcome to Khang's pages
 
-This is my personal page for showing some public projects. Some of them is mine, some is mine and my friend's.
+<img src="https://raw.githubusercontent.com/taigama/taigama.github.io/master/ava2.jpg"
+     alt="Avatar"
+     width="200px" height="200px" />
+
+This is my personal page for showing some public projects. Some of them is mine, some is mine and my friends's.
 
 ---
 
