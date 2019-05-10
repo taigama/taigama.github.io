@@ -10,8 +10,8 @@ This is my personal page for showing some public projects. Some of them is mine,
 
 ### WebARDemo1
 
-- [View Demo 1](/WebARDemo1) for WebAR technology [AR.js](https://github.com/jeromeetienne/AR.js) by [Jeromeetienne](https://github.com/jeromeetienne)
+- [View Demo 1](https://taigama.github.io/WebARDemo1) for WebAR technology [AR.js](https://github.com/jeromeetienne/AR.js) by [Jeromeetienne](https://github.com/jeromeetienne)
 
 ### NK's Zoo
 
-- [View NK's Zoo](/NKZoo), an implementation of WebAR technology [AR.js](https://github.com/jeromeetienne/AR.js) by [Jeromeetienne](https://github.com/jeromeetienne)
+- [View NK's Zoo](https://taigama.github.io/NKZoo), an implementation of WebAR technology [AR.js](https://github.com/jeromeetienne/AR.js) by [Jeromeetienne](https://github.com/jeromeetienne)
